@@ -178,3 +178,52 @@ ul li{
     font-size: 16px;
     margin-bottom: 30px;
 }
+hr{
+    width: 98%;
+    margin-bottom: 30px;
+}
+.btn-ses{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* This work is footer by done */
+.footer{
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding:130px 200px ;
+    display: flex;
+} 
+.let-head{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.ses-para{
+    font-size: 16px;
+    color: #474747;
+}
+.in-area{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    border-radius: 5px;
+    color: #757575;
+    padding: 18px 30px;
+    font-size: 16px;
+    border: none;
+    margin-bottom: 24px;
+    background: #fff;
+}
+.logo{ 
+    margin-top: 30px;
+}
+.face-twi{
+    margin-right: 24px;
+}
+
+
+
+
